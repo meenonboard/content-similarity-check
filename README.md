@@ -1,5 +1,5 @@
 This source contains 
-- An ability to check whether the response from different LLM models closing to the original content or not. (value from 0 to 1 | 0 = not related ,1 = exactly match)
+- An ability to check whether responses from different LLM models are close to the original content. (value from 0 to 1 | 0 = not related ,1 = exactly match)
 - 3 LLMs platform calling examples [Openai gpt-3.5-turbo, Anthropics Claude2 and Claude3]
 - 1 Similarity Calculation function
 
